@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎮 About CraighCraft
 
 Welcome to the **CraighCraft Dev Team's Organization**! We are a dedicated team of developers passionate about creating an immersive experience for CraighCraft players.
