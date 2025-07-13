@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile/logo.png" alt="Logo" width="225">
+<img src="https://github.com/CraighCraft/.github/blob/main/profile/logo.png?raw=true" alt="Logo" width="225">
 
 # CraighCraft Development Team
 
